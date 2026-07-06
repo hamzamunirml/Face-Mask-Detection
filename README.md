@@ -171,7 +171,4 @@ Run `src/evaluate.py` after training to generate:
 
 Python · TensorFlow/Keras · OpenCV · FastAPI · Streamlit · scikit-learn · Pandas · NumPy · Matplotlib
 
-## 👤 Author
 
-**Hamza Munir**
-GitHub: [@hamzamunirml](https://github.com/hamzamunirml) | LinkedIn: [hamza-munir](https://linkedin.com/in/hamza-munir-8b2159367)

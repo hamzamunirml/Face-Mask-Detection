@@ -1,0 +1,25 @@
+# Datasets & models (too large for git)
+dataset/
+models/*.h5
+models/*.keras
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Logs
+*.log
+face_venv/ 

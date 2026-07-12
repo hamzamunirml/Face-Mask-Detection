@@ -1,5 +1,8 @@
 # 😷 Real-Time Face Mask Detection Using Deep Learning and Computer Vision
 
+<img width="1600" height="1171" alt="image" src="https://github.com/user-attachments/assets/07b09d2b-9b6f-4cb3-bd46-2fd9e2e9f048" />
+
+
 An end-to-end deep learning system that classifies whether a person is wearing a face mask, with support for image uploads, real-time webcam detection, and a REST API.
 
 ## 📌 Project Overview
@@ -31,6 +34,9 @@ face-mask-detection/
 ├── requirements.txt
 └── README.md
 ```
+
+## Live App
+https://face-mask-detection-pszauor8gcy3omkbi7aj4n.streamlit.app/
 
 ## 📊 Dataset
 
